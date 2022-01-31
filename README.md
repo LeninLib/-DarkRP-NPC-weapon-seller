@@ -3,6 +3,10 @@ NPC Weapon Seller For DarkRP Server
 Move this folder to lua/entities/
 All settings for weapons are changed in the files 
 addons/darkrpmodificaton/lua/darkrp_customthings/shipments.lua or gamomodes/darkrp/gamemode/config/addentities.lua
+
+
+
+
 Translate RU|ENG
 "Продавец оружия" - Seller Weapon
 "Закрыть" - Close
